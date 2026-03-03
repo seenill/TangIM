@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.vscode
+
+docker/tsdd/logs
+docker/tsdd/miniodata
+docker/tsdd/mysqldata
+docker/tsdd/mysqldata.bak*
